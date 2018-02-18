@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drones on Cloud Native Development</title>
+    <link>http://kubernetes.lol/drone/</link>
+    <description>Recent content in Drones on Cloud Native Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license</copyright>
+    <lastBuildDate>Sat, 17 Feb 2018 20:51:55 -0600</lastBuildDate>
+    
+	<atom:link href="http://kubernetes.lol/drone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drone</title>
+      <link>http://kubernetes.lol/drone/</link>
+      <pubDate>Sat, 17 Feb 2018 20:51:55 -0600</pubDate>
+      
+      <guid>http://kubernetes.lol/drone/</guid>
+      <description>Drone CI Server and Agent configuration Location: https://drone.kubernetes.lol/
+Official documentation can be found at docs.drone.io. This includes Plugin, CLI, and API references
+The following variables must be set for this to run correctly:
+CLI use  DRONE_SERVER=https://drone.kubernetes.lol/ DRONE_TOKEN=&amp;lt;found in drone server settings&amp;gt;  Hosted  DRONE_GITHUB=true DRONE_GITHUB_URL=https://github.com DRONE_GITHUB_CLIENT=&amp;lt;github oatuh&amp;gt; DRONE_GITHUB_SECRET=&amp;lt;github oatuh&amp;gt; DRONE_GITHUB_SCOPE=repo,repo:status,user:email,read:org DRONE_SECRET=&amp;lt;string&amp;gt;  Using the CLI One of Drones features the differentiate it from other CI services is its CLI client.</description>
+    </item>
+    
+  </channel>
+</rss>
